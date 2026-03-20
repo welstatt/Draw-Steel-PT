@@ -4063,7 +4063,7 @@
 |The Flame Primordial|A Chama Primordial|
 |"The Flesh| a Crucible"|"A Carne| Uma Fornalha"|
 |The Forest’s Embrace|O Abraço da Floresta|
-|"The Free City of Alloy| the City at the Center of the Timescape; the City of Brass"|"A Cidade Livre de Alloy| a Cidade no Centro da Timescape| a Cidade de Bronze"|
+|"The Free City of Alloy| the City at the Center of the Timescape; the City of Brass"|"A Cidade Livre de Amálgama| a Cidade no Centro do Temporama| a Cidade de Latão"|
 |The Gods Command You Obey|"Os Deuses Ordenam| Tu Obedeces"|
 |The Gods Punish and Defend|Os Deuses Punem e Protegem|
 |The Gol|Os Gol|
@@ -4164,6 +4164,7 @@
 |Timely Distraction|Distração Oportuna|
 |Timely Distraction|Distração Oportuna|
 |Timely Intervention|Intervenção Oportuna|
+|Timescape|o Temporama|
 |Timesplitter|Divisor de Tempo|
 |Tiny Stabs|Facadinhas|
 |Tireless|Incansável|
