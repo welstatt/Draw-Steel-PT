@@ -206,4 +206,12 @@ Se você quer jogar e conversar com outros gamers interessados em _Draw Steel_, 
 Se você conta com textos alternativos e leitores de tela para interpretar arte, por favor visite(Em Inglês) https://mcdm.gg/DS-Resources para baixar um Guia de Descrição de Arte.
 
 **Cze and Peku**
-Diagramas de Gameplay usan arte de Czepeku. Visite czepeku.com para uma maravilhosa coleção de mapas de Fantasia e Ficção Científica para sua mesa.
+Diagramas de Gameplay usam arte de Czepeku. Visite czepeku.com para uma maravilhosa coleção de mapas de Fantasia e Ficção Científica para sua mesa.
+
+**Créditos da Versão Traduzida**
+
+**2-Minute Tabletop**
+Mapas (https://2minutetabletop.com/) com leves alterações sob CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/) para os diagramas de gameplay.
+
+**Max Hamm**
+Fichas de monstros e personagens (https://www.patreon.com/c/MaxHamm) com leves alterações para os diagramas de gameplay. 
