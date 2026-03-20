@@ -11,15 +11,15 @@ Dentro do diretório **Livros** podes encontrar os livros divididos por capítul
 ## 📊 Progresso
 
 <!-- START_PROGRESS -->
-**Overall: 118/227 — 52.0%**
-████████████████████░░░░░░░░░░░░░░░░░░░░
+**Overall: 136/227 — 59.9%**
+███████████████████████░░░░░░░░░░░░░░░░░
 
 ---
 
 ## 📚 Livros
 
-### Heróis — 79%
-███████████████████████░░░░░░░
+### Heróis — 91%
+███████████████████████████░░░
 - **1 - Introdução** — 100%
 - **2 - O Básico** — 100%
 - **3 - Criando um Herói** — 0%
@@ -30,7 +30,7 @@ Dentro do diretório **Livros** podes encontrar os livros divididos por capítul
 - **8 - Aprimoramentos** — 100%
 - **9 - Complicações** — 100%
 - **10 - Testes** — 100%
-- **11 - Combate** — 0%
+- **11 - Combate** — 100%
 - **12 - Negociação** — 100%
 - **13 - Projetos de Tempo Livre** — 100%
 - **14 - Recompensas** — 100%
@@ -56,24 +56,6 @@ Dentro do diretório **Livros** podes encontrar os livros divididos por capítul
 ## ❌ Untranslated files
 
 - Index/Linhagens/Anão
-- Livros/Heróis/11 - Combate/11.0 - Combate
-- Livros/Heróis/11 - Combate/11.1 - Preparando o Mapa
-- Livros/Heróis/11 - Combate/11.10 - Cobertura
-- Livros/Heróis/11 - Combate/11.12 - Encobrimento
-- Livros/Heróis/11 - Combate/11.13 - Dano
-- Livros/Heróis/11 - Combate/11.14 - Vigor
-- Livros/Heróis/11 - Combate/11.15 - Combate Debaixo De Água
-- Livros/Heróis/11 - Combate/11.16 - Sufocando
-- Livros/Heróis/11 - Combate/11.17 - Combate em Montaria
-- Livros/Heróis/11 - Combate/11.18 - Fim do Combate
-- Livros/Heróis/11 - Combate/11.2 - Ronda de Combate
-- Livros/Heróis/11 - Combate/11.3 - O seu Turno
-- Livros/Heróis/11 - Combate/11.4 - Movimento
-- Livros/Heróis/11 - Combate/11.5 - Ação de Movimento
-- Livros/Heróis/11 - Combate/11.6 - Manobra
-- Livros/Heróis/11 - Combate/11.7 - Ação Principal
-- Livros/Heróis/11 - Combate/11.8 - Golpes Simples
-- Livros/Heróis/11 - Combate/11.9 - Flanqueando
 - Livros/Heróis/3 - Criando um Herói/3.0 - Criando um Herói
 - Livros/Heróis/3 - Criando um Herói/3.1 - Sua Primeira Sessão
 - Livros/Heróis/3 - Criando um Herói/3.2 - Criando um Herói Passo-a-Passo
